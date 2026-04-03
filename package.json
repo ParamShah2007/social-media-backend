@@ -1,0 +1,21 @@
+{
+  "name": "socialmediabackend",
+  "version": "1.0.0",
+  "description": "Social Media Backend",
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "JS",
+    "Mongoose"
+  ],
+  "license": "ISC",
+  "author": "Param Shah",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
